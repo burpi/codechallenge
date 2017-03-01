@@ -1,0 +1,76 @@
+﻿@font-face {
+	font-family: 'Arial_Unicode_MS_TrueType_0';
+	src: local('Arial_Unicode_MS_TrueType_0');
+	src: url('Arial_Unicode_MS_TrueType_0.ttf') format('truetype');
+}
+
+.fmt-0{font-style:normal;font-weight:bold;font-family:Arial_Unicode_MS_TrueType_0,Arial Unicode MS,serif;color:#666666;font-size:70pt;}
+
+@font-face {
+	font-family: 'Arial_Unicode_MS_Type1_1';
+	src: local('Arial_Unicode_MS_Type1_1');
+	src: url('Arial_Unicode_MS_Type1_1.otf') format('opentype');
+}
+
+.fmt-1{font-style:normal;font-weight:normal;font-family:Arial_Unicode_MS_Type1_1,Arial Unicode MS,serif;color:#f8a221;font-size:22pt;}
+
+.fmt-2{font-style:normal;font-weight:normal;font-family:Arial_Unicode_MS_Type1_1,Arial Unicode MS,serif;color:#fcbd79;font-size:22pt;}
+
+.fmt-3{font-style:normal;font-weight:normal;font-family:Arial_Unicode_MS_Type1_1,Arial Unicode MS,serif;color:#000000;font-size:22pt;}
+
+.fmt-4{font-style:normal;font-weight:normal;font-family:Arial_Unicode_MS_Type1_1,Arial Unicode MS,serif;color:#666666;font-size:22pt;}
+
+.fmt-5{font-style:normal;font-weight:bold;font-family:Arial_Unicode_MS_TrueType_0,Arial Unicode MS,serif;color:#ffffff;font-size:60pt;}
+
+@font-face {
+	font-family: 'Arial_Unicode_MS_TrueType_2';
+	src: local('Arial_Unicode_MS_TrueType_2');
+	src: url('Arial_Unicode_MS_TrueType_2.ttf') format('truetype');
+}
+
+.fmt-6{font-style:italic;font-weight:normal;font-family:Arial_Unicode_MS_TrueType_2,Arial Unicode MS,serif;color:#ffffff;font-size:25pt;}
+
+.fmt-7{font-style:normal;font-weight:bold;font-family:Arial_Unicode_MS_TrueType_0,Arial Unicode MS,serif;color:#ffffff;font-size:22.5pt;}
+
+.fmt-8{font-style:normal;font-weight:normal;font-family:Arial_Unicode_MS_Type1_1,Arial Unicode MS,serif;color:#666666;font-size:22.5pt;}
+
+@font-face {
+	font-family: 'Arial_Unicode_MS_Type1_3';
+	src: local('Arial_Unicode_MS_Type1_3');
+	src: url('Arial_Unicode_MS_Type1_3.otf') format('opentype');
+}
+
+.fmt-9{font-style:normal;font-weight:bold;font-family:Arial_Unicode_MS_Type1_3,Arial Unicode MS,serif;color:#ffa400;font-size:22.5pt;}
+
+@font-face {
+	font-family: 'Arial_Unicode_MS_Type1_4';
+	src: local('Arial_Unicode_MS_Type1_4');
+	src: url('Arial_Unicode_MS_Type1_4.otf') format('opentype');
+}
+
+.fmt-10{font-style:normal;font-weight:normal;font-family:Arial_Unicode_MS_Type1_4,Arial Unicode MS,serif;color:#666666;font-size:16pt;}
+
+.fmt-11{font-style:normal;font-weight:bold;font-family:Arial_Unicode_MS_TrueType_0,Arial Unicode MS,serif;color:#ffffff;font-size:22.5pt;}
+
+.fmt-12{font-style:normal;font-weight:normal;font-family:Arial_Unicode_MS_Type1_4,Arial Unicode MS,serif;color:#b3b8bb;font-size:20pt;}
+
+.fmt-13{font-style:normal;font-weight:normal;font-family:Arial_Unicode_MS_Type1_4,Arial Unicode MS,serif;color:#ffffff;font-size:16pt;}
+
+.fmt-14{font-style:normal;font-weight:bold;font-family:Arial_Unicode_MS_Type1_3,Arial Unicode MS,serif;color:#ffffff;font-size:22.5pt;}
+
+@font-face {
+	font-family: 'Arial_Unicode_MS_Type1_5';
+	src: local('Arial_Unicode_MS_Type1_5');
+	src: url('Arial_Unicode_MS_Type1_5.otf') format('opentype');
+}
+
+.fmt-15{font-style:normal;font-weight:normal;font-family:Arial_Unicode_MS_Type1_5,Arial Unicode MS,serif;color:#333333;font-size:23pt;}
+
+.fmt-16{font-style:normal;font-weight:normal;font-family:Arial_Unicode_MS_Type1_4,Arial Unicode MS,serif;color:#333333;font-size:16pt;}
+
+.fmt-17{font-style:normal;font-weight:normal;font-family:Arial_Unicode_MS_Type1_4,Arial Unicode MS,serif;color:#ffffff;font-size:16pt;}
+
+.fmt-18{font-style:normal;font-weight:normal;font-family:Arial_Unicode_MS_Type1_1,Arial Unicode MS,serif;color:#666666;font-size:22.5pt;}
+
+.fmt-19{font-style:normal;font-weight:normal;font-family:Arial_Unicode_MS_Type1_1,Arial Unicode MS,serif;color:#666666;font-size:22.5pt;}
+
